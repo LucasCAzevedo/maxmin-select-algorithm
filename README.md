@@ -247,7 +247,6 @@ max_min_select/
 │
 ├── main.py                           # Implementação principal do algoritmo
 ├── README.md                         # Documentação completa do projeto  
-├── atividade.md                      # Enunciado original do projeto
 │
 └── assets/                          # Recursos visuais
     ├── maxmin_recursion_tree.png    # Diagrama da árvore de recursão
@@ -263,15 +262,9 @@ max_min_select/
 
 ---
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## Autor
 
-Desenvolvido como parte da disciplina Fundamentos de Projeto e Análise de Algoritmos - PUC Minas
+Desenvolvido por Lucas Cerqueira Azevedo como parte da disciplina Fundamentos de Projeto e Análise de Algoritmos - PUC Minas
 
 ---
 
@@ -279,4 +272,5 @@ Desenvolvido como parte da disciplina Fundamentos de Projeto e Análise de Algor
 
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
 - Kleinberg, J., & Tardos, É. (2005). *Algorithm Design*. Addison-Wesley.
+
 - Material didático da disciplina FPAA - PUC Minas
