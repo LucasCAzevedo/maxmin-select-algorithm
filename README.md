@@ -1,6 +1,6 @@
 # Algoritmo MaxMin Select - Divisão e Conquista
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/username/max_min_select) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/username/max_min_select)
 
 Implementação do algoritmo de seleção simultânea do maior e menor elementos (MaxMin Select) utilizando a técnica de divisão e conquista em Python.
 
@@ -274,3 +274,4 @@ Desenvolvido por Lucas Cerqueira Azevedo como parte da disciplina Fundamentos de
 - Kleinberg, J., & Tardos, É. (2005). *Algorithm Design*. Addison-Wesley.
 
 - Material didático da disciplina FPAA - PUC Minas
+
